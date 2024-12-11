@@ -1,8 +1,6 @@
 # First-HTML-CSS-Project
 HTML &amp; CSS Design Template Number One
 
-# My First HTML & CSS Project
-
 This project is a **fully responsive website** that I created after completing my learning journey in HTML and CSS. The design was converted from a **PSD template** into a functional website.
 
 ## Live Preview
